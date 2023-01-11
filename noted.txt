@@ -1,0 +1,1 @@
+install php_mongodb.dll or copy to xampp/php/ext
