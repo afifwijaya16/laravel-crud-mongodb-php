@@ -1,1 +1,5 @@
 install php_mongodb.dll or copy to xampp/php/ext
+
+install 
+composer require mongodb/mongodb --ignore-platform-reqs
+composer require jenssegers/mongodb --ignore-platform-reqs
